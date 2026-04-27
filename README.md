@@ -9,13 +9,13 @@ I enjoy building efficient solutions and continuously improving my coding skills
 
 ## 🧠 Skills
 - 💻 Programming Languages:  
-  `C++` | `Python` | `Java (Basics)`
+  `C++` | `Python`
 
 - ⚙️ Concepts:  
   Data Structures | Algorithms | Problem Solving
 
 - 🛠️ Tools:  
-  Git & GitHub | VS Code
+  Git & GitHub | VS Code | VS Community
 
 ---
 
@@ -28,29 +28,13 @@ I enjoy building efficient solutions and continuously improving my coding skills
 
 ## 🏆 Achievements
 - Solved multiple problems on Codeforces  
-- Practicing daily to improve problem-solving skills  
-
----
-
-## 📌 Projects
-### 🔹 Project 1 - (Project Name)
-Short description about the project.  
-🔗 GitHub Repo: https://github.com/YOUR_USERNAME/PROJECT_NAME  
-
-### 🔹 Project 2 - (Project Name)
-Short description about the project.  
-🔗 GitHub Repo: https://github.com/YOUR_USERNAME/PROJECT_NAME  
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+- Practicing daily to improve problem-solving skills
 
 ---
 
 ## 📫 Contact Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_USERNAME  
-- 📧 Email: your_email@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/mohannad-reda-6ba251395  
+- 📧 Email: mohannadreda123@gmail.com  
 
 ---
 
