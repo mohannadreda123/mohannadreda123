@@ -29,14 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohannad Reda&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohannad Reda&theme=tokyonight"/>
-</p>
-
----
-
 ## 🧠 Competitive Programming
 - 💻 Codeforces Profile: https://codeforces.com/profile/E-Mohannad  
 - 🏆 Solved Problems: 145 
