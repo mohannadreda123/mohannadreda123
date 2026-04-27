@@ -2,7 +2,7 @@
 # 👨‍💻 Mohannad Reda
 
 <p align="center">
-  <img src="https://imagetourl.cloud/13ebjwq0.png" alt="banner" width="550"/>
+  <img src="https://imagetourl.cloud/13ebjwq0.png" alt="banner" width="500"/>
 </p>
 
 ---
