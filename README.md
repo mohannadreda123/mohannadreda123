@@ -1,5 +1,5 @@
 
-# 👨‍💻 Muhannad Reda - Computer Science Student
+# 👨‍💻 Mohannad Reda - Computer Science Student
 
 ## 🚀 About Me
 I'm a Computer Science student passionate about problem solving and competitive programming.  
