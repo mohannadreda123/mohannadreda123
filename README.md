@@ -25,39 +25,31 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![VS Community](https://img.shields.io/badge/VS_Community-blue?style=for-the-badge&logo=visualstudiocommunity)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohannad Reda&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohannad Reda&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🧠 Competitive Programming
-- 💻 Codeforces Profile: https://codeforces.com/profile/YOUR_USERNAME  
-- 🏆 Solved Problems: (اكتب العدد هنا)  
+- 💻 Codeforces Profile: https://codeforces.com/profile/E-Mohannad  
+- 🏆 Solved Problems: 145 
 - 📈 Focus: Data Structures & Algorithms  
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Project Name
-- 📄 Description: Brief description of your project  
-- ⚙️ Tech: C++ / Python  
-- 🔗 Repo: https://github.com/YOUR_USERNAME/PROJECT_NAME  
 
 ---
 
 ## 📫 Contact Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/Mohannad Reda">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:mohannadreda123@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
@@ -65,4 +57,4 @@
 ---
 
 ## ⚡ Fun Fact
-> I don't stop at a problem... until it surrenders.
+> I can spend hours solving a single problem until I crack it 😄
