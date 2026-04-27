@@ -11,7 +11,8 @@ I'm a software developer
 
 
 ## 🔗 Links
-[![linkedin](www.linkedin.com/in/mohannad-reda-6ba251395)
+[![Linkedin](www.linkedin.com/in/mohannad-reda-6ba251395)
+[![Gmail]](mohannadreda123@gmail.com)
 
 
 
