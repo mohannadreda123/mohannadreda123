@@ -1,15 +1,60 @@
 
-# Hi, I'm Mohannad! 👋
-
+# 👨‍💻 Muhannad Reda - Computer Science Student
 
 ## 🚀 About Me
-I'm a Computer Science Student
+I'm a Computer Science student passionate about problem solving and competitive programming.  
+I enjoy building efficient solutions and continuously improving my coding skills.
 
+---
 
-## 🛠 Skills
-C++, Python
+## 🧠 Skills
+- 💻 Programming Languages:  
+  `C++` | `Python` | `Java (Basics)`
 
+- ⚙️ Concepts:  
+  Data Structures | Algorithms | Problem Solving
 
-## 🔗 Links
-[![Gmail](https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=Gmail&logoColor=white)](mohannadreda123@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohannad-reda-6ba251395)
+- 🛠️ Tools:  
+  Git & GitHub | VS Code
+
+---
+
+## 📚 Currently Learning
+- Advanced Data Structures  
+- Competitive Programming (Codeforces)  
+- Object-Oriented Programming (OOP)
+
+---
+
+## 🏆 Achievements
+- Solved multiple problems on Codeforces  
+- Practicing daily to improve problem-solving skills  
+
+---
+
+## 📌 Projects
+### 🔹 Project 1 - (Project Name)
+Short description about the project.  
+🔗 GitHub Repo: https://github.com/YOUR_USERNAME/PROJECT_NAME  
+
+### 🔹 Project 2 - (Project Name)
+Short description about the project.  
+🔗 GitHub Repo: https://github.com/YOUR_USERNAME/PROJECT_NAME  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_USERNAME  
+- 📧 Email: your_email@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+I can spend hours solving a single problem until I crack it.
+
+---
