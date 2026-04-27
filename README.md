@@ -2,7 +2,7 @@
 # 👨‍💻 Mohannad Reda
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Competitive+Programmer;Problem+Solver&center=true&width=500&height=45">
+  <img src="https://imagetourl.cloud/13ebjwq0.png" alt="banner" width="550"/>
 </p>
 
 ---
