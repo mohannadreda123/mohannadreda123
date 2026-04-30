@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![VS Community](https://img.shields.io/badge/VS_Community-blue?style=for-the-badge&logo=visualstudiocommunity)
+![VS Community](https://img.shields.io/badge/VS_Community-red?style=for-the-badge&logo=visualstudiocommunity)
 
 ---
 
