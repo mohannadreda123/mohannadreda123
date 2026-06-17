@@ -1,7 +1,7 @@
 
 # 👨‍💻 Mohannad Reda
 
-<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/3f2ad06d-51e7-4786-9207-485f4e172f55" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/3f2ad06d-51e7-4786-9207-485f4e172f55" />
 
 
 ---
