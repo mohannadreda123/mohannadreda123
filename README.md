@@ -2,7 +2,7 @@
 # 👨‍💻 Mohannad Reda
 
 <p align="center">
-  <img src="https://imagetourl.cloud/13ebjwq0.png" alt="banner" width="500"/>
+  <img src="https://app.notion.com/image/attachment%3Afe5f043c-c85b-4dde-824b-3f0a1a19e180%3AChatGPT_Image_28__2026_01_22_37_.png?table=block&id=34ede017-9b51-806f-b3b6-f389acfbdff6&spaceId=606de017-9b51-81ac-af1c-000305d356bd&width=2000&userId=2ced872b-594c-811f-9550-000221720c8c&cache=v2&imgBuildSrc=requestProxiedImageUrl" alt="Image Description" width="80%">
 </p>
 
 ---
